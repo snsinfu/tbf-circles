@@ -1,4 +1,7 @@
-PRODUCTS = archive/tbf05.json archive/tbf05.md
+PRODUCTS = \
+  archive/tbf05.json archive/tbf05.md \
+  archive/tbf06.json archive/tbf06.md
+
 CHECKPOINTS = _pipenv.ok
 
 .PHONY: all clean
